@@ -21,7 +21,7 @@
 <br />
 
 ### SOME SKILLS:
-<img align="left" alt="Python" width="26px" src="https://www.flaticon.com/svg/vstatic/svg/919/919852.svg?token=exp=1616233850~hmac=89565569f357e5d2966def4d405f0ab1" />
+<img align="left" alt="Python" width="26px" src="https://www.python.org/static/img/python-logo@2x.png" />
 <img align="left" alt="c#" width="26px" src="https://img2.pngdownload.id/20180831/iua/kisspng-c-programming-language-logo-microsoft-visual-stud-atlas-portfolio-5b89919299aab1.1956912415357423546294.jpg" />
 <img align="left" alt="VBA" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/768px-.NET_Core_Logo.svg.png" />
 <img align="left" alt="VBA" width="26px" src="https://cdn3.iconfinder.com/data/icons/flat-design-spreadsheet-set-5/24/macros-vba-512.png" />
