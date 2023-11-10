@@ -1,4 +1,4 @@
- ![Hi there, I’m Almerindo aka sm4ll5mile](https://github.com/quironaquariano/quironaquariano/blob/main/github_banner.png?raw=true)
+ ![Hi there, I’m Almerindo aka quironaquariano](https://github.com/quironaquariano/quironaquariano/blob/main/github_banner.png?raw=true)
  
  ### 👋 Olá there, I’m Almerindo aka quironaquariano
  ![Profile views](https://gpvc.arturio.dev/quironaquariano)  
