@@ -1,7 +1,7 @@
- ![Hi there, I’m Almerindo aka sm4ll5mile](https://github.com/sm4ll5mile/sm4ll5mile/blob/main/github_banner.png?raw=true)
+ ![Hi there, I’m Almerindo aka sm4ll5mile](https://github.com/quironaquariano/quironaquariano/blob/main/github_banner.png?raw=true)
  
  ### 👋 Olá there, I’m Almerindo aka quironaquariano
- ![Profile views](https://gpvc.arturio.dev/sm4ll5mile)  
+ ![Profile views](https://gpvc.arturio.dev/quironaquariano)  
  [![Twitter Follow](https://img.shields.io/twitter/follow/sm4ll5mile?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fsm4ll5mile&screen_name=sm4ll5mile)
  
 
@@ -37,11 +37,11 @@
 ---
 ### SOME STATISTICS
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sm4ll5mile)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quironaquariano)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sm4ll5mile&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=quironaquariano&show_icons=true)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=sm4ll5mile)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=quironaquariano)  
 
 
 
